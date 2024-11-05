@@ -1,0 +1,108 @@
+/* frontend/src/App.css */
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.language-selector {
+  margin-bottom: 20px;
+}
+
+.language-selector label {
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.personalities {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.personality-card {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  width: 200px;
+  padding: 15px;
+  margin: 10px;
+  cursor: pointer;
+  transition: border-color 0.3s;
+}
+
+.personality-card:hover {
+  border-color: #007BFF;
+}
+
+.selected {
+  border-color: #28a745;
+}
+
+.conversation {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  text-align: left;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+  height: 300px;
+  overflow-y: scroll;
+  border: 1px solid #ddd;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.message.user {
+  text-align: right;
+}
+
+.message.ai {
+  text-align: left;
+}
+
+.interaction {
+  margin-top: 20px;
+}
+
+.interaction button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  font-size: 16px;
+  border-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.3s;
+}
+
+.interaction button:hover {
+  background-color: #0056b3;
+}
+
+.interaction button.active {
+  background-color: #dc3545;
+}
+
+.interaction button.active svg {
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+.interaction button svg {
+  margin-right: 10px;
+}
+
+audio {
+  margin-top: 15px;
+}
