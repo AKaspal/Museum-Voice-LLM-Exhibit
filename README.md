@@ -2,21 +2,6 @@
 ```markdown
 # 🏛️ Museum AI Scientist Interaction
 
-## 📖 Table of Contents
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Setup and Installation](#setup-and-installation)
-  - [Clone the Repository](#clone-the-repository)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-  - [Environment Variables](#environment-variables)
-- [Vosk Speech Recognition Model](#vosk-speech-recognition-model)
-- [Running the Project](#running-the-project)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🧑‍💻 About
 
