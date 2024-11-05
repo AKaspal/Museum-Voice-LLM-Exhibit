@@ -2,14 +2,6 @@
 ```markdown
 # 🏛️ Museum AI Scientist Interaction
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-2.3.2-green.svg)
-![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
-![Vosk](https://img.shields.io/badge/Vosk-0.3.45-orange.svg)
-
-![Project Screenshot](./screenshots/project-screenshot.png)
-
 ## 📖 Table of Contents
 - [About](#about)
 - [Technologies Used](#technologies-used)
