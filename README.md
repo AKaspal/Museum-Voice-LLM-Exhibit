@@ -20,7 +20,7 @@
 ### **Frontend**
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces
 - [Axios](https://axios-http.com/) - Promise-based HTTP client
-- [react-icons](https://react-icons.github.io/react-icons/) - Icon library for React
+
 
 ### **APIs**
 - [Arli.ai](https://arli.ai/) - AI-generated responses
